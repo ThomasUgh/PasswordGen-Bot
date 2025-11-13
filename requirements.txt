@@ -1,0 +1,5 @@
+# Discord Bot Library
+discord.py>=2.3.2
+
+# Environment Variables
+python-dotenv>=1.0.0
